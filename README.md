@@ -141,12 +141,13 @@ Hyper Mode ships with the default keybindings below, but you'll likely want to p
 #### Default app keybindings
 
 - <kbd>hyper</kbd> + <kbd>a</kbd> to open iTunes ("A" for "Apple Music")
-- <kbd>hyper</kbd> + <kbd>b</kbd> to open Google Chrome ("B" for "Browser")
+- <kbd>hyper</kbd> + <kbd>b</kbd> to open Firefox ("B" for "Browser")
 - <kbd>hyper</kbd> + <kbd>c</kbd> to open Slack ("C for "Chat")
 - <kbd>hyper</kbd> + <kbd>d</kbd> to open [Remember The Milk](https://www.rememberthemilk.com/) ("D" for "Do!" ... or "Done!")
-- <kbd>hyper</kbd> + <kbd>e</kbd> to open [Atom](https://atom.io) ("E" for "Editor")
+- <kbd>hyper</kbd> + <kbd>e</kbd> to open [Sublime Text](https://www.sublimetext.com/) ("E" for "Editor")
 - <kbd>hyper</kbd> + <kbd>f</kbd> to open Finder ("F" for "Finder")
-- <kbd>hyper</kbd> + <kbd>g</kbd> to open [Mailplane](http://mailplaneapp.com/) ("G" for "Gmail")
+- <kbd>hyper</kbd> + <kbd>g</kbd> to open [Tower](https://www.git-tower.com/mac) ("G" for "Git")
+- <kbd>hyper</kbd> + <kbd>h</kbd> to open [Harvest](https://www.getharvest.com/apps-and-integrations/mac) ("H" for "Harvest")
 - <kbd>hyper</kbd> + <kbd>s</kbd> to open [Slack](https://slack.com/downloads/osx) ("S" for "Slack")
 - <kbd>hyper</kbd> + <kbd>t</kbd> to open [iTerm2](https://www.iterm2.com/) ("T" for "Terminal")
 
