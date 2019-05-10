@@ -8,7 +8,7 @@ return {
   { 'b', 'Firefox' },           -- "B" for "Browser"
   { 'c', 'Slack' },             -- "C for "Chat"
   { 'd', 'Remember The Milk' }, -- "D" for "Do!" ... or "Done!"
-  { 'e', 'Sublime Text' },      -- "E" for "Editor"
+  { 'e', 'Visual Studio Code' },      -- "E" for "Editor"
   { 'f', 'Finder' },            -- "F" for "Finder"
   { 'g', 'Tower' },             -- "G" for "git"
   { 'h', 'Harvest' },           -- "H" for "Harvest"

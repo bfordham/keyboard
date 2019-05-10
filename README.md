@@ -144,7 +144,7 @@ Hyper Mode ships with the default keybindings below, but you'll likely want to p
 - <kbd>hyper</kbd> + <kbd>b</kbd> to open Firefox ("B" for "Browser")
 - <kbd>hyper</kbd> + <kbd>c</kbd> to open Slack ("C for "Chat")
 - <kbd>hyper</kbd> + <kbd>d</kbd> to open [Remember The Milk](https://www.rememberthemilk.com/) ("D" for "Do!" ... or "Done!")
-- <kbd>hyper</kbd> + <kbd>e</kbd> to open [Sublime Text](https://www.sublimetext.com/) ("E" for "Editor")
+- <kbd>hyper</kbd> + <kbd>e</kbd> to open [Visual Studio Code](https://code.visualstudio.com/) ("E" for "Editor")
 - <kbd>hyper</kbd> + <kbd>f</kbd> to open Finder ("F" for "Finder")
 - <kbd>hyper</kbd> + <kbd>g</kbd> to open [Tower](https://www.git-tower.com/mac) ("G" for "Git")
 - <kbd>hyper</kbd> + <kbd>h</kbd> to open [Harvest](https://www.getharvest.com/apps-and-integrations/mac) ("H" for "Harvest")
